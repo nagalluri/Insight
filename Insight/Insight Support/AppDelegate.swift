@@ -9,7 +9,11 @@
 import UIKit
 import Parse
 import Bolts
+<<<<<<< HEAD
 
+=======
+import FBSDKCoreKit
+>>>>>>> a2db8361f279fb9b723317e815c76f951e628628
 
 
 
@@ -51,6 +55,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
    func applicationDidBecomeActive(application: UIApplication) {
     // Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the user interface.
+<<<<<<< HEAD
+=======
+        FBSDKAppEvents.activateApp()
+>>>>>>> a2db8361f279fb9b723317e815c76f951e628628
     }
 
     func applicationWillTerminate(application: UIApplication) {
