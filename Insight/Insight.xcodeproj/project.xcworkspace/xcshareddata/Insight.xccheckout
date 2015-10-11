@@ -12,12 +12,16 @@
 	<dict>
 		<key>F61B3090E90698AFC952B4629DB10E9380FD4343</key>
 		<string>https://github.com/nagalluri/Insight.git</string>
+		<key>FCD632E376B3896BA3D92F63A34D2EBEE6DC200E</key>
+		<string>https://github.com/nagalluri/Insight.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Insight/Insight.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>F61B3090E90698AFC952B4629DB10E9380FD4343</key>
+		<string>../../../../Insight</string>
+		<key>FCD632E376B3896BA3D92F63A34D2EBEE6DC200E</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,7 +29,7 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F61B3090E90698AFC952B4629DB10E9380FD4343</string>
+	<string>FCD632E376B3896BA3D92F63A34D2EBEE6DC200E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>F61B3090E90698AFC952B4629DB10E9380FD4343</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Insight</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FCD632E376B3896BA3D92F63A34D2EBEE6DC200E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Insight-2a2bfd9afdd66e6585529819bcecfab89cdd9a10</string>
 		</dict>
 	</array>
 </dict>
