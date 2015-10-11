@@ -33,7 +33,7 @@
 		7F7E65AC1BC9B757003B660B /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F7E65AB1BC9B757003B660B /* Accounts.framework */; };
 		7F7E65AE1BC9B769003B660B /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F7E65AD1BC9B769003B660B /* MobileCoreServices.framework */; };
 		7F7E65B01BC9B775003B660B /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F7E65AF1BC9B775003B660B /* Social.framework */; };
-		7F822D131BC9EB1E000A40C0 /* 8DKFMK9UNW.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F822D121BC9EB1E000A40C0 /* 8DKFMK9UNW.jpg */; };
+		7FFEE1851BCA359600FB07FC /* 8DKFMK9UNW copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7FFEE1841BCA359600FB07FC /* 8DKFMK9UNW copy.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -78,7 +78,7 @@
 		7F7E65AD1BC9B769003B660B /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
 		7F7E65AF1BC9B775003B660B /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
 		7F7E65B11BC9B7DC003B660B /* Insight-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Insight-Bridging-Header.h"; sourceTree = "<group>"; };
-		7F822D121BC9EB1E000A40C0 /* 8DKFMK9UNW.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 8DKFMK9UNW.jpg; path = ../../../../../Downloads/8DKFMK9UNW.jpg; sourceTree = "<group>"; };
+		7FFEE1841BCA359600FB07FC /* 8DKFMK9UNW copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "8DKFMK9UNW copy.jpg"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,7 +146,7 @@
 				7F7E65641BC99B22003B660B /* ViewController.swift */,
 				7F7E65661BC99B22003B660B /* Main.storyboard */,
 				7F7E65691BC99B22003B660B /* Images.xcassets */,
-				7F822D121BC9EB1E000A40C0 /* 8DKFMK9UNW.jpg */,
+				7FFEE1841BCA359600FB07FC /* 8DKFMK9UNW copy.jpg */,
 				7F7E656B1BC99B22003B660B /* LaunchScreen.xib */,
 				7F7E65601BC99B22003B660B /* Supporting Files */,
 			);
@@ -287,7 +287,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7F7E65681BC99B22003B660B /* Main.storyboard in Resources */,
-				7F822D131BC9EB1E000A40C0 /* 8DKFMK9UNW.jpg in Resources */,
+				7FFEE1851BCA359600FB07FC /* 8DKFMK9UNW copy.jpg in Resources */,
 				7F7E656D1BC99B22003B660B /* LaunchScreen.xib in Resources */,
 				7F7E656A1BC99B22003B660B /* Images.xcassets in Resources */,
 			);
