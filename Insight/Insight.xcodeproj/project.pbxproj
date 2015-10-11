@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		159EC0161BC9CC1100079371 /* ParseFacebookUtilsV4.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 159EC0151BC9CC1100079371 /* ParseFacebookUtilsV4.framework */; settings = {ASSET_TAGS = (); }; };
-		159EC0181BC9E00200079371 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 159EC0171BC9E00200079371 /* LoginViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		159EC0161BC9CC1100079371 /* ParseFacebookUtilsV4.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 159EC0151BC9CC1100079371 /* ParseFacebookUtilsV4.framework */; };
+		159EC0181BC9E00200079371 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 159EC0171BC9E00200079371 /* LoginViewController.swift */; };
 		7F7E65631BC99B22003B660B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F7E65621BC99B22003B660B /* AppDelegate.swift */; };
 		7F7E65651BC99B22003B660B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F7E65641BC99B22003B660B /* ViewController.swift */; };
 		7F7E65681BC99B22003B660B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F7E65661BC99B22003B660B /* Main.storyboard */; };
@@ -27,16 +27,13 @@
 		7F7E65971BC9A5C9003B660B /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F7E658D1BC9A5C9003B660B /* Security.framework */; };
 		7F7E65981BC9A5C9003B660B /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F7E658E1BC9A5C9003B660B /* StoreKit.framework */; };
 		7F7E65991BC9A5C9003B660B /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F7E658F1BC9A5C9003B660B /* SystemConfiguration.framework */; };
-		7F7E65A31BC9B279003B660B /* FacebookSDKStrings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7F7E659D1BC9B279003B660B /* FacebookSDKStrings.bundle */; };
 		7F7E65A41BC9B279003B660B /* FBAudienceNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F7E659E1BC9B279003B660B /* FBAudienceNetwork.framework */; };
-		7F7E65A51BC9B279003B660B /* FBSDKCoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F7E659F1BC9B279003B660B /* FBSDKCoreKit.framework */; };
-		7F7E65A61BC9B27A003B660B /* FBSDKLoginKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F7E65A01BC9B279003B660B /* FBSDKLoginKit.framework */; };
 		7F7E65A71BC9B27A003B660B /* FBSDKMessengerShareKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F7E65A11BC9B279003B660B /* FBSDKMessengerShareKit.framework */; };
 		7F7E65A81BC9B27A003B660B /* FBSDKShareKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F7E65A21BC9B279003B660B /* FBSDKShareKit.framework */; };
-		7F7E65AA1BC9B72C003B660B /* ParseFacebookUtils.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F7E65A91BC9B72C003B660B /* ParseFacebookUtils.framework */; };
 		7F7E65AC1BC9B757003B660B /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F7E65AB1BC9B757003B660B /* Accounts.framework */; };
 		7F7E65AE1BC9B769003B660B /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F7E65AD1BC9B769003B660B /* MobileCoreServices.framework */; };
 		7F7E65B01BC9B775003B660B /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F7E65AF1BC9B775003B660B /* Social.framework */; };
+		7F822D131BC9EB1E000A40C0 /* 8DKFMK9UNW.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F822D121BC9EB1E000A40C0 /* 8DKFMK9UNW.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,17 +71,14 @@
 		7F7E658D1BC9A5C9003B660B /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		7F7E658E1BC9A5C9003B660B /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		7F7E658F1BC9A5C9003B660B /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
-		7F7E659D1BC9B279003B660B /* FacebookSDKStrings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = FacebookSDKStrings.bundle; sourceTree = "<group>"; };
 		7F7E659E1BC9B279003B660B /* FBAudienceNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBAudienceNetwork.framework; sourceTree = "<group>"; };
-		7F7E659F1BC9B279003B660B /* FBSDKCoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKCoreKit.framework; sourceTree = "<group>"; };
-		7F7E65A01BC9B279003B660B /* FBSDKLoginKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKLoginKit.framework; sourceTree = "<group>"; };
 		7F7E65A11BC9B279003B660B /* FBSDKMessengerShareKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKMessengerShareKit.framework; sourceTree = "<group>"; };
 		7F7E65A21BC9B279003B660B /* FBSDKShareKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKShareKit.framework; sourceTree = "<group>"; };
-		7F7E65A91BC9B72C003B660B /* ParseFacebookUtils.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ParseFacebookUtils.framework; sourceTree = "<group>"; };
 		7F7E65AB1BC9B757003B660B /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = System/Library/Frameworks/Accounts.framework; sourceTree = SDKROOT; };
 		7F7E65AD1BC9B769003B660B /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
 		7F7E65AF1BC9B775003B660B /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
 		7F7E65B11BC9B7DC003B660B /* Insight-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Insight-Bridging-Header.h"; sourceTree = "<group>"; };
+		7F822D121BC9EB1E000A40C0 /* 8DKFMK9UNW.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 8DKFMK9UNW.jpg; path = ../../../../../Downloads/8DKFMK9UNW.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,9 +91,7 @@
 				7F7E65AC1BC9B757003B660B /* Accounts.framework in Frameworks */,
 				7F7E65901BC9A5C9003B660B /* AudioToolbox.framework in Frameworks */,
 				7F7E65911BC9A5C9003B660B /* CFNetwork.framework in Frameworks */,
-				7F7E65AA1BC9B72C003B660B /* ParseFacebookUtils.framework in Frameworks */,
 				7F7E65A81BC9B27A003B660B /* FBSDKShareKit.framework in Frameworks */,
-				7F7E65A61BC9B27A003B660B /* FBSDKLoginKit.framework in Frameworks */,
 				7F7E65921BC9A5C9003B660B /* CoreGraphics.framework in Frameworks */,
 				7F7E65A71BC9B27A003B660B /* FBSDKMessengerShareKit.framework in Frameworks */,
 				159EC0161BC9CC1100079371 /* ParseFacebookUtilsV4.framework in Frameworks */,
@@ -111,7 +103,6 @@
 				7F7E65981BC9A5C9003B660B /* StoreKit.framework in Frameworks */,
 				7F7E65991BC9A5C9003B660B /* SystemConfiguration.framework in Frameworks */,
 				7F7E65851BC9A537003B660B /* Parse.framework in Frameworks */,
-				7F7E65A51BC9B279003B660B /* FBSDKCoreKit.framework in Frameworks */,
 				7F7E65841BC9A537003B660B /* Bolts.framework in Frameworks */,
 				7F7E65A41BC9B279003B660B /* FBAudienceNetwork.framework in Frameworks */,
 			);
@@ -155,6 +146,7 @@
 				7F7E65641BC99B22003B660B /* ViewController.swift */,
 				7F7E65661BC99B22003B660B /* Main.storyboard */,
 				7F7E65691BC99B22003B660B /* Images.xcassets */,
+				7F822D121BC9EB1E000A40C0 /* 8DKFMK9UNW.jpg */,
 				7F7E656B1BC99B22003B660B /* LaunchScreen.xib */,
 				7F7E65601BC99B22003B660B /* Supporting Files */,
 			);
@@ -193,11 +185,7 @@
 				7F7E65AD1BC9B769003B660B /* MobileCoreServices.framework */,
 				159EC0151BC9CC1100079371 /* ParseFacebookUtilsV4.framework */,
 				7F7E65AB1BC9B757003B660B /* Accounts.framework */,
-				7F7E65A91BC9B72C003B660B /* ParseFacebookUtils.framework */,
-				7F7E659D1BC9B279003B660B /* FacebookSDKStrings.bundle */,
 				7F7E659E1BC9B279003B660B /* FBAudienceNetwork.framework */,
-				7F7E659F1BC9B279003B660B /* FBSDKCoreKit.framework */,
-				7F7E65A01BC9B279003B660B /* FBSDKLoginKit.framework */,
 				7F7E65A11BC9B279003B660B /* FBSDKMessengerShareKit.framework */,
 				7F7E65A21BC9B279003B660B /* FBSDKShareKit.framework */,
 				7F7E65881BC9A5C9003B660B /* CoreGraphics.framework */,
@@ -299,9 +287,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				7F7E65681BC99B22003B660B /* Main.storyboard in Resources */,
+				7F822D131BC9EB1E000A40C0 /* 8DKFMK9UNW.jpg in Resources */,
 				7F7E656D1BC99B22003B660B /* LaunchScreen.xib in Resources */,
 				7F7E656A1BC99B22003B660B /* Images.xcassets in Resources */,
-				7F7E65A31BC9B279003B660B /* FacebookSDKStrings.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -498,7 +486,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = InsightTests;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Insight Support.app/Insight Support";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Insight.app/Insight";
 			};
 			name = Debug;
 		};
@@ -514,7 +502,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = InsightTests;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Insight Support.app/Insight Support";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Insight.app/Insight";
 			};
 			name = Release;
 		};
