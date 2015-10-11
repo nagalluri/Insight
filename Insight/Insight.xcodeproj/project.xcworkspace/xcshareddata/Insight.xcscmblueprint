@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FCD632E376B3896BA3D92F63A34D2EBEE6DC200E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F61B3090E90698AFC952B4629DB10E9380FD4343" : 0,
+    "FCD632E376B3896BA3D92F63A34D2EBEE6DC200E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0A257C3F-7E6C-46DE-9EEF-7A48000804B7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F61B3090E90698AFC952B4629DB10E9380FD4343" : "Insight",
+    "FCD632E376B3896BA3D92F63A34D2EBEE6DC200E" : "Insight-2a2bfd9afdd66e6585529819bcecfab89cdd9a10\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Insight",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Insight\/Insight.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nagalluri\/Insight.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F61B3090E90698AFC952B4629DB10E9380FD4343"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nagalluri\/Insight.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FCD632E376B3896BA3D92F63A34D2EBEE6DC200E"
+    }
+  ]
+}
