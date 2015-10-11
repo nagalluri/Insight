@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0A257C3F-7E6C-46DE-9EEF-7A48000804B7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Insight</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F61B3090E90698AFC952B4629DB10E9380FD4343</key>
+		<string>https://github.com/nagalluri/Insight.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Insight/Insight.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F61B3090E90698AFC952B4629DB10E9380FD4343</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nagalluri/Insight.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F61B3090E90698AFC952B4629DB10E9380FD4343</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F61B3090E90698AFC952B4629DB10E9380FD4343</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Insight</string>
+		</dict>
+	</array>
+</dict>
+</plist>
